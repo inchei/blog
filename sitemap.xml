@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://inchei.github.io/2026/01/04/zato/</loc>
+    
+    <lastmod>2026-01-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://inchei.github.io/about/index.html</loc>
     
     <lastmod>2025-08-25</lastmod>
@@ -14,6 +23,15 @@
     <loc>https://inchei.github.io/2021/02/11/finish-2020/</loc>
     
     <lastmod>2025-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inchei.github.io/2024/11/16/babylon/</loc>
+    
+    <lastmod>2025-06-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -283,7 +301,7 @@
 
   <url>
     <loc>https://inchei.github.io/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -291,56 +309,56 @@
   
   <url>
     <loc>https://inchei.github.io/tags/%E5%B0%8F%E8%AA%AA/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inchei.github.io/tags/%E5%AD%B8%E6%A0%A1/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inchei.github.io/tags/ACGN/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inchei.github.io/tags/%E7%9E%8E%E6%8A%98%E9%A8%B0/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inchei.github.io/tags/%E7%B6%B2%E7%AB%99/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inchei.github.io/tags/%E9%9B%9C%E6%96%87/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inchei.github.io/tags/%E8%AE%80%E6%9B%B8/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inchei.github.io/tags/%E8%A9%A9%E6%AD%8C/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2026-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
